@@ -2,6 +2,8 @@
 
 Welcome to my movie recommendations page!
 
+![Movie image](images/Theater.jpg)
+
 ## Action Movies
 
 ### Spider-Man: Into the Spider-Verse
